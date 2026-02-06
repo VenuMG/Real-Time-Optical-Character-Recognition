@@ -1,4 +1,4 @@
-# RealTime_OCR_Tessaract.py
+
 
 import cv2
 import pytesseract
